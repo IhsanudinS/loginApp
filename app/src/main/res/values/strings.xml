@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Login App</string>
+    <string name="welcome" translatable="false">Welcome</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="btnLogout" translatable="false">Logout</string>
+</resources>

@@ -1,6 +1,6 @@
 # loginApp
 
-#Login sederhana \n
+#Aplikasi Login sederhana 
 
 
 
